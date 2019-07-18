@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wayne.weexhotreload">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application>
+        <provider
+            android:name=".HRLibraryInstaller"
+            android:authorities="${applicationId}.HFHotRefreshInstaller"
+            android:exported="false"
+            android:enabled="true"/>
+    </application>
+</manifest>
