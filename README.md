@@ -8,6 +8,8 @@ An android library for hot reload when the weex bundle changed in development.
 
 android sdk >= 14
 
+webpack-dev-server
+
 # Third sdk dependencies
 
 weex_sdk >= 0.14.0.9
