@@ -43,7 +43,7 @@ debugImplementation 'com.wayne:weex_host_reload:1.0.0'
 	git clone https://github.com/dearwayne/weex-hot-reload-android.git
 	```
 	
-3. make the weex bundle url in WeexActivity
+3. modify the weex bundle url in WeexActivity
 
 	![modify weex bundle](WeexActivity.png)
 	
