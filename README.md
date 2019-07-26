@@ -2,7 +2,7 @@
 
 # Introduction
 
-An android library for hot reload when the weex bundle changed in development.
+An android library for hot reload when the weex bundle changed in development.[Go to see the ios version](https://github.com/dearwayne/weex-hot-reload-ios/) 
 
 # Requires
 
